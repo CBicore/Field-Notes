@@ -44,3 +44,8 @@ Where do they begin, and how might they change?
 ## Status
 
 This is an evolving notebook. Details may change as the characters and their stories develop.
+## Explore the Gentle Wilds
+
+- [Read the world lore](LORE.md)
+- [Meet the creatures](CREATURES.md)
+- [Visit the Pigments & Press fantasy collection](https://pigmentsandpress.com/collections/whimsical-art)
