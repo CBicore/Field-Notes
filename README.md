@@ -2,6 +2,12 @@
 
 A collection of character notes for stories and creative projects.
 
+## Meadow Reference
+
+This repository is the worldbuilding and character reference for **Meadow**. Use the lore, creature profiles, and Gentle Wilds setting here whenever developing Meadow's stories, artwork, products, or related projects.
+
+**Repository:** https://github.com/CBicore/Field-Notes
+
 ## What you’ll find here
 
 - Character profiles and backstories
@@ -44,6 +50,7 @@ Where do they begin, and how might they change?
 ## Status
 
 This is an evolving notebook. Details may change as the characters and their stories develop.
+
 ## Explore the Gentle Wilds
 
 - [Read the world lore](LORE.md)
